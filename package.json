@@ -1,0 +1,13 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Bayar botany",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "eslint": "^8.55.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4"
+  }
+}
